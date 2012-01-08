@@ -399,7 +399,7 @@ public:
 
         void UpdateAI(const uint32 uiDiff)
         {
-            //Return since we have no target
+            //Return since we have    no target
             if (!UpdateVictim())
                 return;
 
